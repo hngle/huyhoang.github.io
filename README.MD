@@ -5,7 +5,7 @@ LINK TẢI : https://visualstudio.microsoft.com/#vs-section
 ![pic_1](https://github.com/hngle/huyhoang.github.io/assets/152090257/b908250d-a5e5-4c9e-9721-939d4aaeb58d)
 ![pic_2](https://github.com/hngle/huyhoang.github.io/assets/152090257/2fb94c01-fa0d-46bc-b28e-d13c9f01624e)
 # LINK YOUTUBE
-LINK: https://www.youtube.com/watch?v=RcGiQ_2hjq8&ab_channel=L%C3%AAHuyHo%C3%A0ng
+LINK: https://youtu.be/pWiBS4kOYPs
 # THÔNG TIN
 Dự án được code được tạo bằng C++ dựa vào Windows Form.
  - Giao diện trò chơi đơn giản
