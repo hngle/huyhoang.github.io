@@ -9,4 +9,4 @@ LINK: https://www.youtube.com/watch?v=RcGiQ_2hjq8&ab_channel=L%C3%AAHuyHo%C3%A0n
 # THÔNG TIN
 Dự án được code được tạo bằng C++ dựa vào Windows Form.
  - Giao diện trò chơi đơn giản.
-Những người thực hiện: Lê Huy Hoàng, Huỳnh Lê Phương Lĩnh, Phạm Quang Long.
+# Những người thực hiện: Lê Huy Hoàng, Huỳnh Lê Phương Lĩnh, Phạm Quang Long.
