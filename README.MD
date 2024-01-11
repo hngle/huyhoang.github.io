@@ -9,4 +9,5 @@ LINK: https://youtu.be/pWiBS4kOYPs
 # THÔNG TIN
 Dự án được code được tạo bằng C++ dựa vào Windows Form.
  - Giao diện trò chơi đơn giản
+# Được tạo bởi
 Những người thực hiện: Lê Huy Hoàng, Huỳnh Lê Phương Lĩnh, Phạm Quang Long.
