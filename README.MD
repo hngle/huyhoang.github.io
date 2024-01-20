@@ -6,10 +6,10 @@ LINK TẢI : https://visualstudio.microsoft.com/#vs-section
 ![pic_2](https://github.com/hngle/huyhoang.github.io/assets/152090257/2fb94c01-fa0d-46bc-b28e-d13c9f01624e)
 # LINK YOUTUBE
 LINK: https://youtu.be/pWiBS4kOYPs
-#LINK REPORT
-LINK: https://docs.google.com/document/d/1DKhF500xU3qtgAcToDhBiZWT2MYr_YTNELbImIEfd00/edit
 # THÔNG TIN
 Dự án được code được tạo bằng C++ dựa vào Windows Form.
  - Giao diện trò chơi đơn giản
 # Được tạo bởi
 Những người thực hiện: Lê Huy Hoàng, Huỳnh Lê Phương Lĩnh, Phạm Quang Long.
+#LINK REPORT
+LINK: https://docs.google.com/document/d/1DKhF500xU3qtgAcToDhBiZWT2MYr_YTNELbImIEfd00/edit
